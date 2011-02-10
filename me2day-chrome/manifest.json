@@ -1,0 +1,10 @@
+{
+  "name": "me2day Chrome Ex Program",
+  "version": "1.0.0",
+  "description": "미투데이를 빠르게 사용하기 위한 크롬 확장 프로그램입니다. by Eunseok",
+  "icons": { "128": "images/favicon.ico" },
+  "browser_action": {
+    "default_icon": "images/favicon.ico",
+    "popup": "index.html"
+  }
+}
